@@ -3,5 +3,5 @@ I am a Computer Engineering Student 👨‍💻 at the Federal University of Per
 experimenting with/learning about all kinds of technologies in hope to find my way in the field.
 
 I am currently studying 📚 :
--C/C++ -HTML/CSS -Javascript
+-C/C++ -x86 ASM -HTML/CSS -Javascript
 
