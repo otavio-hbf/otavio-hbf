@@ -1,7 +1,6 @@
 Hey there!👋
 I am a Computer Engineering Student 👨‍💻 at the Federal University of Pernambuco (Brazil),
-experimenting with/learning about all kinds of technologies in hope to find my way in the field.
+experimenting with/learning about all kinds of technologies.
 
-I am currently studying 📚 :
--Python for Data Science 📊
+I am currently interested in 👀: Data Science 📊🔍
 
