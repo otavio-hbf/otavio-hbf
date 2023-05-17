@@ -15,6 +15,6 @@ These are my abilities:
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/C/C++-00AED8.svg?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/C/C++-9700d8.svg?style=for-the-badge&logo=C&logoColor=white">
 </div>
 </p>
