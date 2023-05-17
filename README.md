@@ -19,3 +19,13 @@ These are my abilities:
   <img src="https://img.shields.io/badge/SQL-3c5399.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 </p>
+
+
+<br/>
+<p align="left">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=torrinworx&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torrinworx&theme=radical&hide_border=true">		  
+  </a>
+</p>
+<br>
