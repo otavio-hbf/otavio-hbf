@@ -14,8 +14,8 @@ at CEERMA-UFPE
 These are my abilities: 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/C/C++-9700d8.svg?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-16171a?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/C/C++-3c305c.svg?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-3c5399.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 </p>
