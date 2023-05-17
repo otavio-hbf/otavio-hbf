@@ -7,8 +7,10 @@
 
 
 I study at: the Federal University of Pernambuco (Brazil)
+
 I do research about: Artificial Intelligence 🧠💻- Natural Language Processing 💭
 at CEERMA-UFPE
+
 These are my abilities: 
 <p>
 <div align="center">
