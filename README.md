@@ -12,6 +12,6 @@ at CEERMA-UFPE
 These are my abilities: 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python?style=for-the-badge&logo=three.js&logoColor=white">
+  <img src="https://img.shields.io/badge/python?style=for-the-badge&logo=three.js&logoColor=white">
 </div>
 </p>
