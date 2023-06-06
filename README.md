@@ -27,4 +27,5 @@ These are my abilities:
 </p>
 
 I am currently studying:
+
 <img src="https://img.shields.io/badge/Haskell-761391.svg?style=for-the-badge&logo=Haskell&logoColor=white">
