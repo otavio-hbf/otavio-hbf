@@ -8,8 +8,11 @@
 
 I study at: the Federal University of Pernambuco (Brazil)
 
-I do research about: Artificial Intelligence 🧠💻- Natural Language Processing 💭
-at CEERMA-UFPE
+I currently working on: 
+5G OpenRAN 📡 Intelligent Orcherstrator 🧠💻 at the Networking and Telecommunications Research Group
+
+I have also worked on:
+Artificial Intelligence (Natural Language Processing 💭) and Quantum Computing ⚛️ - at CEERMA-UFPE
 
 These are my abilities: 
 <p>
