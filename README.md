@@ -6,7 +6,9 @@
 
 
 
-I study at: the Federal University of Pernambuco (Brazil)
+**I study at:**
+
+the Federal University of Pernambuco (Brazil)
 
 **I currently working on:**
 
