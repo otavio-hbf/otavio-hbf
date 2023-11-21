@@ -33,7 +33,3 @@ Quantum Natural Language Processing 💭⚛️ at CEERMA-UFPE
     <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-hbf&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
-
-I am currently studying:
-
-<img src="https://img.shields.io/badge/Haskell-761391.svg?style=for-the-badge&logo=Haskell&logoColor=white">
