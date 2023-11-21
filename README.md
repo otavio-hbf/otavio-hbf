@@ -24,7 +24,7 @@ Quantum Natural Language Processing 💭⚛️ at CEERMA-UFPE
   <img src="https://img.shields.io/badge/Python-16171a?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/C/C++-3c305c.svg?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-3c5399.svg?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-3c5399.svg?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-3c5399.svg?style=for-the-badge&logo=java&logoColor=white">
 </div>
 </p>
 
