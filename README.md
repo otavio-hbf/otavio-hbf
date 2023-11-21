@@ -16,7 +16,7 @@ the Federal University of Pernambuco (Brazil)
 
 **I have also worked on:**
 
-Artificial Intelligence (Natural Language Processing 💭) and Quantum Computing ⚛️ at CEERMA-UFPE
+Quantum Natural Language Processing 💭⚛️ at CEERMA-UFPE
 
 These are my abilities: 
 <p>
