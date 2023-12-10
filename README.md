@@ -8,7 +8,7 @@
 
 **I study at:**
 
-the Federal University of Pernambuco (Brazil)
+Federal University of Pernambuco (Brazil)
 
 **I currently working on:**
 
