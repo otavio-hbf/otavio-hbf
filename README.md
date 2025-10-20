@@ -11,11 +11,13 @@
 Federal University of Pernambuco (Brazil)
 
 **I currently working on:**
-Agentic AI at CAIXA
+Agentic AI 🤖 at CAIXA
 
 
 **I have also worked on:**
+
 5G OpenRAN 📡 Intelligent Orcherstrator 🧠💻 at the Networking and Telecommunications Research Group
+
 Quantum Natural Language Processing 💭⚛️ at CEERMA-UFPE
 
 **My stats:**
