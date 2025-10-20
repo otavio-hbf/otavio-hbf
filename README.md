@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there!👋;I'm+Otávio+Francisco!;I'm+an+aspiring+Data+Scientist🔎📊;and+a+Computer+Engineering+student.🖥⚙;Check+out+my+projects!😁;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there!👋;I'm+Otávio+Francisco!;I'm+a++Data+Scientist🔎📊;and+a+Computer+Engineering+student.🖥⚙;Check+out+my+projects!😁;&center=true&width=500&height=50"></a>
 </p>
 
 
